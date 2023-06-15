@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.nav-bar{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background-color: #000;
+    box-shadow: 0px 5px 5px 0px  #ddd;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+.back-icon {
+    font-size: 36px;
+    padding: 5px;
+    margin-left: 20px;
+    cursor:pointer;
+}
+.title {
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    color: white;
+    padding: 5px;
+}
+.sub-title {
+    font-size: 18px;
+    font-family: 'Source Sans 3', sans-serif;
+    padding: 10px;
+    padding-top: 22px;
+    color: #757575;
+}
+.file-name {
+    margin-left: 18%;
+    padding: 17px;
+    font-size: 19px;
+    font-family: 'Source Sans 3', sans-serif;
+}
