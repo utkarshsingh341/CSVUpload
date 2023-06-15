@@ -1,6 +1,10 @@
 # CSV_Upload
 CSV_Upload is a user-friendly web application designed for uploading and parsing CSV files. Developed using Node.js and Express, it offers a straightforward interface to facilitate seamless management of CSV data.
 
+- Git Repository link: https://github.com/utkarshsingh341/CSVUpload
+- Video link: https://youtu.be/7wZOtAADtw0
+- Hosted URL: https://csv-upload-d92y.onrender.com/
+
 ## Installation
 To install CSV_Upload, please follow these steps:
 
